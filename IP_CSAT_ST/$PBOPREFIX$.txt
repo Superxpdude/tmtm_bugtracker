@@ -1,0 +1,5 @@
+///'IP_CSAT_ST.pbo' from Mikero's dos tools, dll version 5.66///
+prefix=IP_CSAT_ST
+Pbo Type is: Arma Addon
+Sha: 'C0EC664FFDD824E438E3C78773A733F03F0439D1'
+//////</HEADER>//////
