@@ -897,8 +897,11 @@ class cfgWeapons
 			};
 		};
 	};
-	class NVGoggles;
-	class ItemInfo;
+    class Binocular;
+	class NVGoggles : Binocular
+    {
+        class ItemInfo;        
+    };
 	class Meaty_NVGoggles: NVGoggles
 	{
 		modelOptics="\A3\weapons_f\reticle\optics_night";
