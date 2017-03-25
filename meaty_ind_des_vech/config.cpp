@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class Meaty_Vech_IND_DES
+	class Meaty_Vech_IND_DES_F
 	{
 		units[]={};
 		weapons[]={};

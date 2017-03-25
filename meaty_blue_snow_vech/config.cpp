@@ -1,8 +1,8 @@
 class CfgPatches
 {
-	class Meaty_Vech_B_Sn
+	class Meaty_Vech_B_Sn_F
 	{
-		units[]={};
+		units[]={"Meaty_Hunter_Sn","Meaty_HunterHMG_Sn","Meaty_HunterGMG_Sn","Meaty_Truck_B_Sn","Meaty_Marshall_Sn","Meaty_Panther_Sn","Meaty_Bobcat_Sn","Meaty_slammer_Sn", "Meaty_Scorcher_Sn", "Meaty_Sandstorm_Sn" };
 		weapons[]={};
 		requiredVersion=0.1;
 		requiredAddons[]={};

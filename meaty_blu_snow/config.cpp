@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class example_retexture_config
+	class Meaty_B_Sn_F
 	{
 		units[]={};
 		weapons[]={};
